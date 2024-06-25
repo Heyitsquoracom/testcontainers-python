@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.7.0](https://github.com/Heyitsquoracom/testcontainers-python/compare/testcontainers-v4.6.0...testcontainers-v4.7.0) (2024-06-25)
+
+
+### Features
+
+* **core:** allow custom dockerfile path for image build and bypassing build cache ([#615](https://github.com/Heyitsquoracom/testcontainers-python/issues/615)) ([ead0f79](https://github.com/Heyitsquoracom/testcontainers-python/commit/ead0f797902a94d3b2558e489fe2a0a55c3bb7ad)), closes [#610](https://github.com/Heyitsquoracom/testcontainers-python/issues/610)
+
+
+### Bug Fixes
+
+* **kafka:** Add Kraft to Kafka containers ([#611](https://github.com/Heyitsquoracom/testcontainers-python/issues/611)) ([762d2a2](https://github.com/Heyitsquoracom/testcontainers-python/commit/762d2a2130f7ce17dacaed5a96a6898a08cf2bc5))
+
 ## [4.6.0](https://github.com/testcontainers/testcontainers-python/compare/testcontainers-v4.5.1...testcontainers-v4.6.0) (2024-06-18)
 
 
